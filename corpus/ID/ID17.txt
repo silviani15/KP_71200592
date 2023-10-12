@@ -1,0 +1,34 @@
+Robotika
+
+Robotika adalah satu cabang teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi dari robot. Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.
+
+Pemikiran tentang pembuatan mesin yang dapat bekerja sendiri telah ada sejak Era Klasik, tetapi riset mengenai penggunaannya tidak berkembang secara berarti sampai abad ke-20. Kini, banyak robot melakukan pekerjaan yang berbahaya bagi manusia seperti menjinakkan bom, menjelajahi kapal karam, dan pertambangan.
+
+Sepanjang sejarah, sering diasumsikan oleh berbagai ahli, penemu, insinyur, dan teknisi bahwa robot suatu hari nanti akan dapat meniru perilaku manusia dan mengelola tugas dengan cara seperti manusia. Saat ini, robotika adalah bidang yang berkembang pesat, seiring dengan kemajuan teknologi yang terus berlanjut; meneliti, merancang, dan membangun robot baru untuk berbagai tujuan praktis, baik di dalam negeri, komersial, maupun militer. Banyak robot dibuat untuk melakukan pekerjaan yang berbahaya bagi manusia, seperti menjinakkan bom, mencari korban di reruntuhan yang tidak stabil, serta menjelajahi tambang dan bangkai kapal. Robotika juga digunakan dalam STEM (sains, teknologi, teknik, dan matematika) sebagai alat bantu pengajaran.
+
+Kata robotika berasal dari kata robot, yang diperkenalkan kepada publik oleh penulisa asal Ceko bernama Karel Čapek dalam dramanya R.U.R. (Rossum's Universal Robots), yang diterbitkan pada tahun 1920. Permainan dimulai di sebuah pabrik yang membuat manusia buatan yang disebut robot, makhluk yang bisa disalahartikan sebagai manusia–sangat mirip dengan ide-ide modern android. Karel Čapek sendiri tidak menciptakan kata itu. Dia menulis sebuah surat pendek yang mengacu pada sebuah etimologi dalam Oxford English Dictionary di mana dia menyebut saudaranya Josef Čapek sebagai pencetus sebenarnya.
+
+Menurut Oxford English Dictionary, kata robotika pertama kali digunakan di media cetak oleh Isaac Asimov, dalam cerita pendek fiksi ilmiahnya "Pembohong!" , yang diterbitkan pada bulan Mei 1941 dalam Karya Fiksi-ilmiah yang Mencengangkan. Asimov tidak menyadari bahwa dialah yang menciptakan istilah itu; karena ilmu dan teknologi perangkat listrik adalah elektronik, ia menganggap robotika sudah mengacu pada ilmu dan teknologi robot. Dalam beberapa karya Asimov lainnya, ia menyatakan bahwa penggunaan pertama kata robotika adalah dalam cerita pendeknya Runaround, di mana ia memperkenalkan konsepnya tentang Tiga Hukum Robotika. Namun, publikasi asli "Pembohong!" mendahului "Runaround" selama 10 bulan, jadi yang pertama umumnya disebut sebagai asal kata.
+
+Karena semakin banyak robot dirancang untuk tugas-tugas tertentu, metode klasifikasi ini menjadi lebih relevan. Misalnya, banyak robot dirancang untuk pekerjaan perakitan, yang mungkin tidak mudah beradaptasi untuk aplikasi lain. Mereka disebut sebagai "robot perakitan". Untuk pengelasan jahitan, beberapa pemasok menyediakan sistem pengelasan lengkap dengan robot yaitu peralatan pengelasan beserta fasilitas penanganan material lainnya seperti meja putar, dll sebagai satu kesatuan. Sistem robot terintegrasi semacam itu disebut "robot pengelasan" meskipun unit manipulator diskritnya dapat disesuaikan dengan berbagai tugas. Beberapa robot dirancang khusus untuk manipulasi beban berat, dan diberi label sebagai "robot tugas berat".
+
+Penggunaan dan potensial saat ini meliputi:
+
+Robot militer.
+Robot industri. Robot semakin banyak digunakan di bidang manufaktur (sejak 1960-an). Menurut data Robotic Industries Association AS, pada tahun 2016 industri otomotif menjadi pelanggan utama robot industri dengan 52% dari total penjualan. Dalam industri otomotif, mereka dapat berjumlah lebih dari setengah "tenaga kerja". Bahkan ada pabrik "mati lampu" seperti pabrik pembuatan keyboard IBM di Texas yang sepenuhnya otomatis pada awal tahun 2003.
+Cobot (robot kolaboratif).
+Robot konstruksi. Robot konstruksi dapat dipisahkan menjadi tiga jenis: robot tradisional, robot lengan, dan robot eksoskeleton.
+Robot pertanian (AgRobots). Penggunaan robot di bidang pertanian terkait erat dengan konsep pertanian presisi berbantuan AI dan penggunaan drone. Penelitian 1996-1998 juga membuktikan bahwa robot dapat melakukan tugas menggiring.
+Robot medis yang bervariasi tipenya. Seperti da Vinci Surgical System dan Hospi.
+Otomatisasi dapur. Contoh otomatisasi dapur komersial (dalam memasak) adalah Flippy (burger), Zume Pizza (pizza), Cafe X (kopi), Makr Shakr (koktail), Frobot (yogurt beku), Sally (salad), Rotimatic (panggangan roti pipih). Contoh lainnya adalah Boris (cuci piring).
+Pertarungan robot untuk olahraga–hobi atau acara olahraga di mana dua atau lebih robot bertarung di arena untuk melumpuhkan satu sama lain. Ini telah berkembang dari hobi di tahun 1990-an menjadi beberapa serial TV di seluruh dunia.
+Pembersihan area yang terkontaminasi, seperti limbah beracun atau fasilitas nuklir.
+Robot domestik.
+Robot nano.
+Robotika kawanan.
+Drone otonom.
+Penanda garis lapangan olahraga.
+
+Robotika adalah komponen penting di banyak lingkungan manufaktur modern. Seiring dengan meningkatnya penggunaan robot oleh pabrik, jumlah pekerjaan yang berhubungan dengan robotik tumbuh dan diamati terus meningkat. Penggunaan robot di industri telah meningkatkan produktivitas dan penghematan efisiensi dan biasanya dilihat sebagai investasi jangka panjang bagi para dermawan. Sebuah makalah oleh Michael Osborne dan Carl Benedikt Frey menemukan bahwa 47% pekerjaan AS berisiko terhadap otomatisasi "selama beberapa tahun yang tidak ditentukan. Klaim ini telah dikritik dengan alasan bahwa kebijakan sosial tersebut menyebabkan kasus pengangguran meningkat. Dalam artikel tahun 2016 dalam The Guardian, Stephen Hawking menyatakan bahwa "Otomasi pabrik telah menghancurkan pekerjaan di manufaktur tradisional, dan munculnya kecerdasan buatan kemungkinan akan memperluas penghancuran pekerjaan ini jauh ke kelas menengah, dengan hanya yang paling peduli, kreatif. atau peran pengawasan yang tersisa".
+
+Menurut laporan GlobalData September 2021, industri robotika bernilai $ 45 miliar pada tahun 2020, dan pada tahun 2030, industri ini akan tumbuh dengan laju pertumbuhan tahunan gabungan (CAGR) sebesar 29% menjadi $ 568 miliar, yang mendorong lapangan kerja di bidang robotika dan industri terkait.

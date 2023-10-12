@@ -1,0 +1,21 @@
+Elasmobranchii
+
+Elasmobranchii (/ɪˌlæzməˈbræŋkiaɪ/) is a subclass of Chondrichthyes or cartilaginous fish, including sharks (superorder Selachii), rays, skates, and sawfish (superorder Batoidea). Members of this subclass are characterised by having five to seven pairs of gill clefts opening individually to the exterior, rigid dorsal fins and small placoid scales on the skin. The teeth are in several series; the upper jaw is not fused to the cranium, and the lower jaw is articulated with the upper. The details of this jaw anatomy vary between species, and help distinguish the different elasmobranch clades. The pelvic fins in males are modified to create claspers for the transfer of sperm. There is no swim bladder; instead, these fish maintain buoyancy with large livers rich in oil.
+
+The definition of the clade is unclear with respect to fossil chondrichthyans. It has been used by different authors as equivalent to Neoselachii (the clade including modern sharks and rays and their last common ancestor) or for all chondrichthyans more closely related to modern sharks and rays than to Holocephali (the clade containing chimaeras and their extinct relatives).
+
+The earliest elasmobranch fossils came from the Devonian and many surviving orders date back to the Cretaceous, or even earlier. Many species became extinct during the Permian and there was a burst of adaptive radiation during the Jurassic.
+
+The name Elasmobranchii comes from the Ancient Greek words elasmo- ("plate") and bránchia ("gill"), referring to the broad, flattened gills which are characteristic of these fishes.
+
+Elasmobranchii is one of the two subclasses of cartilaginous fish in the class Chondrichthyes, the other being Holocephali (chimaeras).
+
+Members of the elasmobranchii subclass have no swim bladders, five to seven pairs of gill clefts opening individually to the exterior, rigid dorsal fins, and small placoid scales. The teeth are in several series; the upper jaw is not fused to the cranium, and the lower jaw is articulated with the upper.
+
+Extant elasmobranchs exhibit several archetypal jaw suspensions: amphistyly, orbitostyly, hyostyly, and euhyostyly. In amphistyly, the palatoquadrate has a postorbital articulation with the chondrocranium from which ligaments primarily suspend it anteriorly. The hyoid articulates with the mandibular arch posteriorly, but it appears to provide little support to the upper and lower jaws. In orbitostyly, the orbital process hinges with the orbital wall and the hyoid provides the majority of suspensory support.
+
+In contrast, hyostyly involves an ethmoid articulation between the upper jaw and the cranium, while the hyoid most likely provides vastly more jaw support compared to the anterior ligaments. Finally, in euhyostyly, also known as true hyostyly, the mandibular cartilages lack a ligamentous connection to the cranium. Instead, the hyomandibular cartilages provide the only means of jaw support, while the ceratohyal and basihyal elements articulate with the lower jaw, but are disconnected from the rest of the hyoid. The eyes have a tapetum lucidum. The inner margin of each pelvic fin in the male fish is grooved to constitute a clasper for the transmission of sperm. These fish are widely distributed in tropical and temperate waters.
+
+Many fish maintain buoyancy with swim bladders. However elasmobranchs lack swim bladders, and maintain buoyancy instead with large livers that are full of oil. This stored oil may also function as a nutrient when food is scarce. Deep sea sharks are usually targeted for their oil, because the livers of these species can weigh up to 20% of their total weight.
+
+Fossilised shark teeth are known from the early Devonian, around 400 million years ago. During the following Carboniferous period, the sharks underwent a period of diversification, with many new forms evolving. Many of these became extinct during the Permian, but the remaining sharks underwent a second burst of adaptive radiation during the Jurassic, around which time the skates and rays first appeared. Many surviving orders of elasmobranch date back to the Cretaceous, or earlier.

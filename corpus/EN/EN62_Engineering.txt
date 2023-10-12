@@ -1,0 +1,26 @@
+Engineering
+
+Engineering is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings. The discipline of engineering encompasses a broad range of more specialized fields of engineering, each with a more specific emphasis on particular areas of applied mathematics, applied science, and types of application. See glossary of engineering.
+
+The term engineering is derived from the Latin ingenium, meaning "cleverness" and ingeniare, meaning "to contrive, devise".
+
+Engineering has existed since ancient times, when humans devised inventions such as the wedge, lever, wheel and pulley, etc.
+
+The term engineering is derived from the word engineer, which itself dates back to the 14th century when an engine'er (literally, one who builds or operates a siege engine) referred to "a constructor of military engines." In this context, now obsolete, an "engine" referred to a military machine, i.e., a mechanical contraption used in war (for example, a catapult). Notable examples of the obsolete usage which have survived to the present day are military engineering corps, e.g., the U.S. Army Corps of Engineers.
+
+The word "engine" itself is of even older origin, ultimately deriving from the Latin ingenium (c. 1250), meaning "innate quality, especially mental power, hence a clever invention."
+
+Later, as the design of civilian structures, such as bridges and buildings, matured as a technical discipline, the term civil engineering entered the lexicon as a way to distinguish between those specializing in the construction of such non-military projects and those involved in the discipline of military engineering.
+
+Ancient Greece developed machines in both civilian and military domains. The Antikythera mechanism, an early known mechanical analog computer, and the mechanical inventions of Archimedes, are examples of Greek mechanical engineering. Some of Archimedes' inventions as well as the Antikythera mechanism required sophisticated knowledge of differential gearing or epicyclic gearing, two key principles in machine theory that helped design the gear trains of the Industrial Revolution, and are still widely used today in diverse fields such as robotics and automotive engineering.
+
+Ancient Chinese, Greek, Roman and Hunnic armies employed military machines and inventions such as artillery which was developed by the Greeks around the 4th century BC, the trireme, the ballista and the catapult. In the Middle Ages, the trebuchet was developed.
+
+Mechanical engineering is the design and manufacture of physical or mechanical systems, such as power and energy systems, aerospace/aircraft products, weapon systems, transportation products, engines, compressors, powertrains, kinematic chains, vacuum technology, vibration isolation equipment, manufacturing, robotics, turbines, audio equipments, and mechatronics.
+
+The study of the human body, albeit from different directions and for different purposes, is an important common link between medicine and some engineering disciplines. Medicine aims to sustain, repair, enhance and even replace functions of the human body, if necessary, through the use of technology.
+
+Genetically engineered mice expressing green fluorescent protein, which glows green under blue light. The central mouse is wild-type.
+Modern medicine can replace several of the body's functions through the use of artificial organs and can significantly alter the function of the human body through artificial devices such as, for example, brain implants and pacemakers. The fields of bionics and medical bionics are dedicated to the study of synthetic implants pertaining to natural systems.
+
+Conversely, some engineering disciplines view the human body as a biological machine worth studying and are dedicated to emulating many of its functions by replacing biology with technology. This has led to fields such as artificial intelligence, neural networks, fuzzy logic, and robotics. There are also substantial interdisciplinary interactions between engineering and medicine.

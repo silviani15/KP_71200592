@@ -1,0 +1,5 @@
+ChatGPT (Chat Generative Pre-trained Transformer, secara harafiah berarti Transformer Generatif Chat Terlatih) adalah chatbot AI dalam bentuk model bahasa umum yang menggunakan teknologi transformator untuk memprediksi kemungkinan kalimat atau kata berikutnya dalam percakapan atau perintah teks. ChatGPT dibangun menggunakan Large Language Model (LLM) GPT-3.5 dan GPT-4 dan dioptimalkan (transfer learning) menggunakan metode pembelajaran terbimbing dan penguatan.
+
+ChatGPT dirilis sebagai prototipe pada tanggal 30 November 2022 dan dengan cepat menarik perhatian karena responsnya yang mendetail dan respons jawaban yang baik di berbagai domain pengetahuan. Namun, keakuratan faktual yang bervariasi ternyata merupakan kelemahan yang signifikan. Setelah ChatGPT dirilis, OpenAI akan bernilai $29 miliar pada tahun 2023.
+
+ChatGPT awalnya didasarkan pada GPT-3.5; Dirilis pada November 2022, GPT-4 adalah model OpenAI terbaru yang  dirilis pada 14 Maret 2023,  tersedia untuk pengguna ChatGPT Plus.

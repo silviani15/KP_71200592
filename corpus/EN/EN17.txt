@@ -1,0 +1,34 @@
+Robotics
+
+Robotics is a branch of technology that deals with the design, construction, operation, structural disposition, manufacture, and application of robots. Robotics is related to the sciences of electronics, engineering, mechanics, and computer software.
+
+The idea of building self-actuating machines dates back to the Classical Era, but research into their use did not develop significantly until the 20th century. Today, many robots perform jobs that are dangerous for humans such as bomb defusing, shipwreck exploration, and mining.
+
+Throughout history, it was often assumed by various experts, inventors, engineers, and technicians that robots would one day be able to mimic human behavior and manage tasks in a human-like manner. Today, robotics is a rapidly growing field, as technological advancements continue; researching, designing, and building new robots for a variety of practical purposes, whether domestic, commercial, or military. Many robots are built to do jobs that are dangerous for humans, such as defusing bombs, searching for victims in unstable ruins, and exploring mines and shipwrecks. Robotics is also used in STEM (science, technology, engineering and math) as a teaching aid.
+
+The word robotics comes from the word robot, which was introduced to the public by Czech writer Karel Čapek in his play R.U.R. (Rossum's Universal Robots), published in 1920. The play begins in a factory that makes artificial humans called robots, creatures that can be mistaken for humans-very similar to modern ideas of androids. Karel Čapek himself did not coin the word. He wrote a short letter referring to an etymology in the Oxford English Dictionary where he named his brother Josef Čapek as the real originator.
+
+According to the Oxford English Dictionary, the word robotics was first used in print by Isaac Asimov, in his science fiction short story "Liar!", published in May 1941 in Astonishing Works of Science Fiction. Asimov did not realize that it was he who coined the term; since the science and technology of electrical devices is electronic, he assumed robotics already referred to the science and technology of robots. In some of Asimov's other works, he states that the first use of the word robotics was in his short story Runaround, where he introduced his concept of the Three Laws of Robotics. However, the original publication of "Liar!" preceded "Runaround" by 10 months, so the former is generally cited as the origin of the word.
+
+As more and more robots are designed for specific tasks, this classification method becomes more relevant. For example, many robots are designed for assembly work, which may not be easily adaptable for other applications. They are referred to as "assembly robots". For seam welding, some suppliers provide complete welding systems with robots that is welding equipment along with other material handling facilities such as rotary tables, etc as a single unit. Such integrated robot systems are called "welding robots" although their discrete manipulator units can be adapted to various tasks. Some robots are specifically designed for heavy load manipulation, and are labeled as "heavy duty robots".
+
+Current and potential uses include:
+
+Military robots.
+Industrial robots. Robots are increasingly used in manufacturing (since the 1960s). According to the US Robotic Industries Association data, in 2016 the automotive industry became the main customer of industrial robots with 52% of total sales. In the automotive industry, they can account for more than half of the "workforce". There are even "lights-out" factories such as IBM's keyboard manufacturing plant in Texas which was fully automated as early as 2003.
+Cobots (collaborative robots).
+Construction robots. Construction robots can be separated into three types: traditional robots, arm robots, and exoskeleton robots.
+Agricultural robots (AgRobots). The use of robots in agriculture is closely related to the concept of AI-assisted precision agriculture and the use of drones. Research from 1996-1998 also proved that robots can perform herding tasks.
+Medical robots that vary in type. Such as da Vinci Surgical System and Hospi.
+Kitchen automation. Examples of commercial kitchen automation (in cooking) are Flippy (burgers), Zume Pizza (pizza), Cafe X (coffee), Makr Shakr (cocktails), Frobot (frozen yogurt), Sally (salad), Rotimatic (flatbread grill). Another example is Boris (dishwashing).
+Robot fighting for sport-a hobby or sporting event where two or more robots fight in an arena to immobilize each other. It has grown from a hobby in the 1990s to several TV series around the world.
+Cleanup of contaminated areas, such as toxic waste or nuclear facilities.
+Domestic robots.
+Nano robots.
+Swarm robotics.
+Autonomous drones.
+Sports field line markers.
+
+Robotics is a critical component in many modern manufacturing environments. Along with the increasing use of robots by factories, the number of robotics-related jobs is growing and is observed to continue to increase. The use of robots in industry has increased productivity and efficiency savings and is typically seen as a long-term investment for philanthropists. A paper by Michael Osborne and Carl Benedikt Frey found that 47% of US jobs are at risk of automation "over an unspecified number of years." This claim has been criticized on the grounds that it is not true. This claim has been criticized on the grounds that such social policies cause unemployment cases to rise. In a 2016 article in The Guardian, Stephen Hawking stated that "Factory automation has already destroyed jobs in traditional manufacturing, and the rise of artificial intelligence is likely to extend this job destruction deep into the middle class, with only the most caring, creative or supervisory roles remaining".
+
+According to a GlobalData September 2021 report, the robotics industry was worth $45bn in 2020, and by 2030, it will have grown at a compound annual growth rate (CAGR) of 29% to $568bn, driving jobs in robotics and related industries.

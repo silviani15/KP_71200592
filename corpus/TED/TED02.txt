@@ -1,0 +1,5 @@
+ChatGPT (Chat Generative Pre-trained Transformer, literally meaning Trained Chat Generative Transformer) is an AI chatbot in the form of a general language model that uses transformer technology to predict the next possible sentence or word in a conversation or text command. ChatGPT was built using the Large Language Model (LLM) GPT-3.5 and GPT-4 and optimized (transfer learning) using guided and reinforcement learning methods.
+
+ChatGPT was released as a prototype on November 30, 2022 and quickly attracted attention for its detailed responses and good answer responses across multiple knowledge domains. However, the varying factual accuracy turned out to be a significant drawback. After ChatGPT's release, OpenAI will be valued at $29 billion in 2023.
+
+ChatGPT was originally based on GPT-3.5; released in November 2022, GPT-4 is the latest OpenAI model released on March 14, 2023, available to ChatGPT Plus users.

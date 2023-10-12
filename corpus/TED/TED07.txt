@@ -1,0 +1,7 @@
+Rainbows are a weather phenomenon caused by the reflection, refraction and diffraction of light on water droplets, causing a spectrum of light to appear in the sky. Forming a circular arc of color that is the rainbow. Rainbows caused by sunlight are always visible on the side of the sky directly opposite the sun.
+
+A rainbow can be a perfect circle. But the observer usually only sees the arc formed by the light droplets on the earth's surface, whose center is from the sun to the observer's eye.
+
+In a primary rainbow, the arc is red on the outside and purple on the inside. This rainbow is created by the refraction of light when it hits a drop of water. It is then reflected at the back of the drop and refracted at the exit.
+
+In a double rainbow, the secondary arc appears outside the primary arc and the color order is reversed, with red on the inside of the arc. This is because the light is reflected twice inside the drop before exiting.

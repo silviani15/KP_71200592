@@ -1,0 +1,23 @@
+Organism
+
+An organism (from Ancient Greek ὄργανον (órganon) 'instrument, implement, tool', and -ισμός (-ismós)) is any biological living system that functions as an individual life form. All organisms are composed of cells (cell theory). The idea of organism is based on the concept of minimal functional unit of life. Three traits have been proposed to play the main role in qualification as an organism:
+
+noncompartmentability – structure that cannot be divided without its functionality loss,
+individuality – the entity has simultaneous holding of genetic uniqueness, genetic homogeneity and autonomy,
+distinctness – genetic information has to maintain open-system (a cell).
+Organisms include multicellular animals, plants, and fungi; or unicellular microorganisms such as protists, bacteria, and archaea. All types of organisms are capable of reproduction, growth and development, maintenance, and some degree of response to stimuli. Most multicellular organisms differentiate into specialized tissues and organs during their development.
+
+A unicellular organism may be either a prokaryote or a eukaryote. Prokaryotes are represented by two separate domains – bacteria and archaea. Eukaryotic organisms are characterized by the presence of a membrane-bound cell nucleus and contain additional membrane-bound compartments called organelles (such as mitochondria in animals and plants and plastids in plants and algae, all generally considered to be derived from endosymbiotic bacteria). Fungi, animals and plants are examples of kingdoms of organisms within the eukaryotes.
+
+Estimates on the number of Earth's current species range from 2 million to 1 trillion, of which over 1.7 million have been documented. More than 99% of all species, amounting to over five billion species, that ever lived are estimated to be extinct.
+
+In 2016, a set of 355 genes from the last universal common ancestor (LUCA) of all organisms from Earth was identified.
+
+The term "organism" (from Greek ὀργανισμός, organismos, from ὄργανον, organon, i.e. "instrument, implement, tool, organ of sense or apprehension")] first appeared in the English language in 1703 and took on its current definition by 1834 (Oxford English Dictionary). It is directly related to the term "organization". There is a long tradition of defining organisms as self-organizing beings, going back at least to Immanuel Kant's 1790 Critique of Judgment.
+
+An organism may be defined as an assembly of molecules functioning as a more or less stable whole that exhibits the properties of life. Dictionary definitions can be broad, using phrases such as "any living structure, such as a plant, animal, fungus or bacterium, capable of growth and reproduction". Many definitions exclude viruses and possible man-made non-organic life forms, as viruses are dependent on the biochemical machinery of a host cell for reproduction. A superorganism is an organism consisting of many individuals working together as a single functional or social unit.
+
+There has been controversy about the best way to define the organism, and from a philosophical point of view, whether such a definition is necessary. Problematic cases include colonial organisms: for instance, a colony of eusocial insects fulfils criteria such as adaptive organisation and germ-soma specialisation. If so, the same argument would include some mutualistic and sexual partnerships as organisms. If group selection occurs, then a group could be viewed as a superorganism, optimised by group adaptation. Another view is that attributes like autonomy, genetic homogeneity and genetic uniqueness should be examined separately rather than demanding that an organism should have all of them; if so, there are multiple dimensions to biological individuality, resulting in several types of organism.
+
+Other views include the idea that an individual is distinguished by its immune response, separating self from foreign; that "anti-entropy", the ability to maintain order, is what distinguishes an organism; or that Shannon's information theory can be used to identify organisms as capable of self-maintaining their information content. Finally, it may be that the concept of the organism is inadequate in biology.
+
